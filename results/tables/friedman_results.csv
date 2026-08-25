@@ -1,0 +1,10 @@
+metric,chi2,df_chi2,p_chi2,F_iman_davenport,df1,df2,p_F,kendall_w
+segment accuracy,19.993,8.0,0.0104,3.997,8.0,32.0,0.0022,0.5
+segment macro-F1,18.24,8.0,0.0195,3.353,8.0,32.0,0.0067,0.456
+track accuracy (hard),8.264,8.0,0.4081,1.042,8.0,32.0,0.4266,0.207
+track macro-F1 (hard),9.013,8.0,0.3412,1.164,8.0,32.0,0.3507,0.225
+track accuracy (mean prob.),17.836,8.0,0.0225,3.219,8.0,32.0,0.0085,0.446
+track macro-F1 (mean prob.),18.027,8.0,0.021,3.282,8.0,32.0,0.0076,0.451
+track accuracy (log prob.),18.528,8.0,0.0176,3.451,8.0,32.0,0.0056,0.463
+"wilcoxon: mean prob. vs hard (45 runs, descriptive)",27.5,,1e-06,,,,,
+"wilcoxon: mean prob. vs hard (9 configurations, exact)",0.0,,0.0039,,,,,
