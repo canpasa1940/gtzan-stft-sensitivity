@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+title: >-
+  A Controlled Sensitivity Analysis of STFT Parameters in a
+  Lightweight CNN Pipeline for Music Genre Classification
+message: >-
+  If you use this software or the stored outputs, please cite the
+  accompanying article.
+type: software
+authors:
+  - family-names: "Pasa"
+    given-names: "Can"
+    affiliation: "Inonu University, Music Technology Programme"
+repository-code: "https://github.com/canpasa1940/gtzan-stft-sensitivity"
+abstract: >-
+  Code, stored model outputs and analysis scripts for a controlled
+  sensitivity analysis of Short-Time Fourier Transform parameters in a
+  lightweight CNN pipeline for music genre classification on GTZAN.
+keywords:
+  - music genre classification
+  - short-time Fourier transform
+  - log-mel spectrogram
+  - convolutional neural network
+  - temporal aggregation
+  - sensitivity analysis
+  - GTZAN
+license: MIT
+preferred-citation:
+  type: article
+  title: >-
+    A Controlled Sensitivity Analysis of STFT Parameters in a
+    Lightweight CNN Pipeline for Music Genre Classification
+  authors:
+    - family-names: "Pasa"
+      given-names: "Can"
+      affiliation: "Inonu University, Music Technology Programme"
+  journal: "Discover Artificial Intelligence"
+  year: 2026
+  notes: "Under review; reference to be completed on acceptance."

@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+out/
+*.egg-info/
+.venv/
+venv/
+
+# Local reruns of the analysis
+out_*/
+
+# LaTeX build products
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.synctex.gz
