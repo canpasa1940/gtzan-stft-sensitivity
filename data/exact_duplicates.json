@@ -1,0 +1,199 @@
+[
+ {
+  "files": [
+   "disco.00098.wav",
+   "disco.00099.wav"
+  ],
+  "splits": [
+   "train",
+   "train"
+  ],
+  "genres": [
+   "disco"
+  ],
+  "cross_test": false
+ },
+ {
+  "files": [
+   "hiphop.00078.wav",
+   "hiphop.00076.wav"
+  ],
+  "splits": [
+   "train",
+   "train"
+  ],
+  "genres": [
+   "hiphop"
+  ],
+  "cross_test": false
+ },
+ {
+  "files": [
+   "hiphop.00045.wav",
+   "hiphop.00039.wav"
+  ],
+  "splits": [
+   "train",
+   "test"
+  ],
+  "genres": [
+   "hiphop"
+  ],
+  "cross_test": true
+ },
+ {
+  "files": [
+   "metal.00034.wav",
+   "metal.00094.wav"
+  ],
+  "splits": [
+   "train",
+   "val"
+  ],
+  "genres": [
+   "metal"
+  ],
+  "cross_test": false
+ },
+ {
+  "files": [
+   "metal.00041.wav",
+   "metal.00062.wav"
+  ],
+  "splits": [
+   "train",
+   "train"
+  ],
+  "genres": [
+   "metal"
+  ],
+  "cross_test": false
+ },
+ {
+  "files": [
+   "metal.00040.wav",
+   "metal.00061.wav"
+  ],
+  "splits": [
+   "train",
+   "val"
+  ],
+  "genres": [
+   "metal"
+  ],
+  "cross_test": false
+ },
+ {
+  "files": [
+   "metal.00042.wav",
+   "metal.00063.wav"
+  ],
+  "splits": [
+   "train",
+   "train"
+  ],
+  "genres": [
+   "metal"
+  ],
+  "cross_test": false
+ },
+ {
+  "files": [
+   "metal.00043.wav",
+   "metal.00064.wav"
+  ],
+  "splits": [
+   "train",
+   "train"
+  ],
+  "genres": [
+   "metal"
+  ],
+  "cross_test": false
+ },
+ {
+  "files": [
+   "metal.00044.wav",
+   "metal.00065.wav"
+  ],
+  "splits": [
+   "train",
+   "train"
+  ],
+  "genres": [
+   "metal"
+  ],
+  "cross_test": false
+ },
+ {
+  "files": [
+   "metal.00045.wav",
+   "metal.00066.wav"
+  ],
+  "splits": [
+   "test",
+   "train"
+  ],
+  "genres": [
+   "metal"
+  ],
+  "cross_test": true
+ },
+ {
+  "files": [
+   "metal.00058.wav",
+   "rock.00016.wav"
+  ],
+  "splits": [
+   "train",
+   "train"
+  ],
+  "genres": [
+   "metal",
+   "rock"
+  ],
+  "cross_test": false
+ },
+ {
+  "files": [
+   "pop.00054.wav",
+   "pop.00060.wav"
+  ],
+  "splits": [
+   "train",
+   "train"
+  ],
+  "genres": [
+   "pop"
+  ],
+  "cross_test": false
+ },
+ {
+  "files": [
+   "pop.00071.wav",
+   "pop.00067.wav"
+  ],
+  "splits": [
+   "train",
+   "train"
+  ],
+  "genres": [
+   "pop"
+  ],
+  "cross_test": false
+ },
+ {
+  "files": [
+   "reggae.00081.wav",
+   "reggae.00082.wav"
+  ],
+  "splits": [
+   "val",
+   "train"
+  ],
+  "genres": [
+   "reggae"
+  ],
+  "cross_test": false
+ }
+]
